@@ -23,18 +23,6 @@ JavaScript
 CSS Modules
 SVG Icons
 
-📂 Folder Structure
-star-rating/
-│
-├── components/
-│   ├── Star.jsx
-│   └── StarRating.jsx
-│
-├── styles/
-│   └── rating.module.css
-│
-└── README.md
-
 **Usage**
 import StarRating from "./components/StarRating";
 
