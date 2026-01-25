@@ -1,0 +1,11 @@
+.carousel {
+    max-width:600px;
+    overflow-x:hidden;
+    margin:0 auto;
+}
+
+.imgStyle{
+    object-fit:contain;
+    width:100%;
+    background:black
+}
