@@ -1,0 +1,10 @@
+.barContainer{
+    height:10px;
+    background-color:lightgrey;
+    margin-top:10px
+}
+
+.barProgress{
+    height:100%;
+    background-color:green;
+}
